@@ -1,4 +1,4 @@
-shuffle: () =>{
+/*shuffle: () =>{
 
     console.log('shuffling');
 
@@ -12,3 +12,4 @@ shuffle: () =>{
 
     
 }
+*/
